@@ -75,4 +75,4 @@ A powerful Chrome extension that leverages Google Gemini AI API to provide intel
    ```bash
    git clone https://github.com/Khalid-Tarazi/Research-Assistant-Extension.git
 
-Credit to: https://www.youtube.com/watch?v=IXn4OGaJfHA&list=PLkhAI2J726y_P6M0BeC0M0OYbm7777Vxc&index=5&t=4781s
+Credit: https://www.youtube.com/watch?v=IXn4OGaJfHA&list=PLkhAI2J726y_P6M0BeC0M0OYbm7777Vxc&index=5&t=4781s
