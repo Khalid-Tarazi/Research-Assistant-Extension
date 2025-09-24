@@ -1,5 +1,5 @@
 # Research-Assistant-Extension
-A powerful Chrome extension that leverages Google Gemini AI API to provide intelligent text summarization and research assistance directly in your browser.
+A powerful Chrome extension that leverages Google Gemini AI API to provide intelligent text summarization and research assistance directly in your browser. It will support my ongoing research on using AI tools to summarize educational materials (papers and books).
 
 # Research Assistant Chrome Extension
 
