@@ -60,13 +60,9 @@ A powerful Chrome extension that leverages Google Gemini AI API to provide intel
 6- Click "Save Notes" to persist your research
 
 
-## 🎥 Demo Video
+## 🎥 Demo
 
-https://github.com/Khalid-Tarazi/Research-Assistant-Extension/assets/your-user-id/Research-Assistant-Extension%20demo.mp4
-
-*Click the image below to watch the demo:*
-
-[![Watch the demo](https://github.com/Khalid-Tarazi/Research-Assistant-Extension/raw/master/Research-Assistant-Extension.PNG)](https://user-images.githubusercontent.com/your-user-id/Research-Assistant-Extension%20demo.mp4)
+![Demo GIF](https://github.com/Khalid-Tarazi/Research-Assistant-Extension/raw/master/demo.gif)
 
 ### On going future improvements
 - Add citation button.
